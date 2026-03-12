@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Arqui2
+
+**Designed by [liadesben@gmail.com](mailto:liadesben@gmail.com)**
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

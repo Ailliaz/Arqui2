@@ -111,6 +111,7 @@ export const Portfolio = () => {
 
       <footer className="footer bento-footer">
         <p>© {new Date().getFullYear()} Arqui2. All rights reserved.</p>
+        <p>Designed by <a href="mailto:liadesben@gmail.com" style={{ color: 'inherit' }}>liadesben@gmail.com</a></p>
       </footer>
     </>
   );
